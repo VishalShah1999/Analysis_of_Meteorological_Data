@@ -9,3 +9,6 @@ You can download from <a href="https://www.kaggle.com/muthuj7/weather-dataset">H
 
 ## Derived Conclusion
 - No change in average humidity over the ten years from 2006 to 2016. Increase in average apparent temperature can be seen in the year 2009 then again it dropped in 2010 , then a slight increase in 2011 then a significant drop is observed in 2015 and again it increased in 2016.
+
+## Article
+An Article wrote on the same analysis <a href="https://medium.com/@visushah99/exploratory-data-analysis-of-meteorological-data-cddf97eee090"> Find Here </a>
